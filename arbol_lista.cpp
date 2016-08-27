@@ -1,6 +1,7 @@
 #include <iostream>
 
-//Solo utilizo algunas estructuras anexas para la funcion imprimir
+//SOLO UTILIZO ESTRUCTURAS ANEXAS
+//PARA IMPRIMIR
 
 
 #include <stdio.h>
